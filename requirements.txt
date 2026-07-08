@@ -1,0 +1,7 @@
+cernopendata-client==1.0.0
+numpy
+uproot
+matplotlib
+awkward_pandas
+vector
+jupyter

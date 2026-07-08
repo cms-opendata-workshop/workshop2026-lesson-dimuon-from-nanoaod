@@ -1,1 +1,1 @@
-# workshop2026-dimuon-from-nanoaod
+# workshop2026-lesson-dimuon-from-nanoaod
