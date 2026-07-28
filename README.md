@@ -9,7 +9,7 @@ In this notebook you will learn how to fetch data from the CERN Open Data Portal
 - Intended audience
   - High school or university physics students
 - Learning goals
-  - How to load NANOAOD using awkward
+  - How to load NANOAOD using uproot and awkward
   - How to make simple selections on events
   - How to calculate and plot invariant mass
 - Necessary skills/background knowledge
